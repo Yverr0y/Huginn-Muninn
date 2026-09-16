@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6B7280&height=220&section=header&text=HUGINN%20MUNINN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=11.3M%20records%20%7C%208%20datasets%20%7C%20device%20fingerprint%20intelligence&descSize=18&descAlignY=58"/>
 
+`Cross-platform` `JSON` `Dataset` `Fingerprinting` - The ravens bring knowledge - Internet crowdsourced OSINT for device identification
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=Thought+%26+Memory+%E2%80%94+Odin's+two+ravens.;MAC+%2B+DHCP+%2B+DHCPv6+%2B+protocol+behavior.;11%2C300%2C000%2B+device-intelligence+records)](https://git.io/typing-svg)
 
 <br>
